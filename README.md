@@ -1,4 +1,4 @@
-## Tugas Organisasi Arsitektur Komputer 3
+## Tugas Organisasi Arsitektur Komputer 
 # Contol-Unit-Snapdragon-7-gen3
 
 ![image](https://github.com/user-attachments/assets/5c560e66-b52b-427d-b618-112b0ab32d7b)
